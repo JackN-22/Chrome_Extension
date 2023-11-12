@@ -15,8 +15,7 @@ body {
 }
 
 #text-el {
-    width: 400px;
-    min-width: 400px;
+    width: 350px;
     height: 25px;
     border-radius: 10px;
     border: 1px solid black;
@@ -42,6 +41,7 @@ button {
     font-size: 18px;
     border: 1px solid black;
     font-family: 'Kdam Thmor Pro', sans-serif;
+    background-color: #FFDEAD;
 
 }
 
@@ -62,4 +62,9 @@ hr{
     margin-top: 20px;
     width: 400px;
     border-top: 1px solid white;
+}
+
+#reset-el:hover{
+    background-color: red;
+    color: white;
 }
