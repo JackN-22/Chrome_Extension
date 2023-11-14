@@ -6,11 +6,11 @@
 body {
     background: orange;
     font-family: 'Kdam Thmor Pro', sans-serif;
-    min-width: 400px;
+    min-width: 550px;
 }
 
 .container {
-    padding: 30px;
+    padding: 10px;
     display: grid;
 }
 
